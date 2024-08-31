@@ -1,0 +1,4 @@
+
+pnpm pretty-quick --staged
+pnpm lint
+pnpm check-types
